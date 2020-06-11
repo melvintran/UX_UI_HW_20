@@ -1,0 +1,51 @@
+.logo{
+    height:60px;
+    padding-right: 90px;
+    padding-bottom: 10px;
+}
+.nav{
+    padding-bottom: 40px;
+}
+
+.jumbotron{
+    background-color: #101160;
+
+}
+.display-4{
+   color: #FEB82B;
+   text-align: center;
+}
+.lead{
+    color: #FEB82B;
+    text-align: center;
+}
+
+.card{
+    justify-content: space-evenly;
+    display: inline-block;
+    
+    padding: 50px;
+   width: 100px;
+}
+
+.pie{
+    height: 50px;
+    width: 100px;
+}
+.ideation{
+    height: 90px;
+    width: 90px;
+}
+.test{
+    height: 80px;
+    width: 180px;
+}
+
+.final{
+    width: 90px;
+    height: 60px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
